@@ -25,7 +25,7 @@ Salon.sql - database dump
     
     You should have at least three rows in your services table for the different services you offer, one with a service_id of 1
 
-salon.sh
+salon.sh - Interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
 
 * All tasks below were solved in this script's
     
