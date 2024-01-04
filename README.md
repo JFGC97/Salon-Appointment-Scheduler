@@ -26,7 +26,7 @@ Salon.sql - database dump
 
 salon.sh - Interactive Bash program that uses PostgreSQL to track the customers and appointments for your salon.
 
-* All tasks below were solved in this script's
+* All tasks below were solved in this script
     
     You should create a script file named salon.sh in the project folder
     
